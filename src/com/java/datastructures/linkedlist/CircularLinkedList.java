@@ -9,7 +9,7 @@ package com.java.datastructures.linkedlist;
 
 /******************************************************
 
-Its a small demo example of circular linked list.
+Here is the implementation of circular linked list.
 Here, the last element in linked list contains the 
 reference of first element. Hence you will not find
 null reference element.
